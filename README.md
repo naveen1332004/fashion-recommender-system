@@ -1,6 +1,6 @@
 # fashion-recommender-system
 fashion recommender system methodology description
-https://github.com/naveen1332004/fashion-recommender-system/blob/b22c421829f30325f51dc25ccaf421f2a121290a/Screenshot%202025-01-02%20164248.png
+https://github.com/naveen1332004/fashion-recommender-system/blob/main/Screenshot%202025-01-02%20164248.png
 # import numpy as np
 # import pickle as pkl
 # import tensorflow as tf
