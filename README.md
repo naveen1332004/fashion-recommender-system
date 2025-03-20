@@ -1,5 +1,8 @@
 # fashion-recommender-system
 fashion recommender system methodology description
+Fashion recommender systems (FRS) use a variety of methodologies to provide personalized recommendations to users. These systems often combine techniques from content-based filtering, collaborative filtering, and context-aware approaches. Content-based filtering involves recommending items similar to those a user has liked in the past, while collaborative filtering suggests items based on the preferences of similar users. Context-aware approaches incorporate additional information such as user location, time of day, and weather conditions to refine recommendations.
+
+Recent advancements in FRS have seen the integration of deep learning techniques, particularly convolutional neural networks (CNNs) and recurrent neural networks (RNNs), to process visual and textual data. These models are used to extract features from fashion images and text descriptions, which are then used to generate recommendations. For example, a system might take an input image of a fashion item and use CNNs to classify and extract features from the image, which are then used to find similar items in a database (2).
 Screenshot 2025-01-02 164248.png
 # import numpy as np
 # import pickle as pkl
